@@ -1,0 +1,17 @@
+apt install figlet
+figlet nethunter
+figlet by
+figlet MR _
+figlet MARVEL
+figlet 007
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+figlet install
+figlet complete
+figlet opening
+figlet kali
+figlet nethunter
+figlet by
+figlet mr
+figlet marvel
+figlet 007
+./start-kali.sh
